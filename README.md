@@ -9,7 +9,7 @@ Gabriel R. Abainza
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-V""My links""V (click the hyperlinks below):
+## V""My links""V (click the hyperlinks below):
 
 [Q1 Distance Activity](q1/Abainza_Gabriel_Distance.py)
 
