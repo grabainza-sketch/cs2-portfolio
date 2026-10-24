@@ -1,12 +1,12 @@
 # cs2-portfolio
 cs2-portfolio of grabainza@brc.pshs.edu.ph
-
+ 
 
 Gabriel R. Abainza
 
 8-Dahlia
 
-
+ 
 V""My links""V (click the hyperlinks below):
 
 [Q1 Distance Activity](q1/Abainza_Gabriel_Distance.py)
