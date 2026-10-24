@@ -1,5 +1,5 @@
-# = Gabriel's CS2-portfolio =
-CS2-portfolio of grabainza@brc.pshs.edu.ph
+# = Gabriel's CS2-Portfolio =
+The CS2-Portfolio of grabainza@brc.pshs.edu.ph
 
 
 Gabriel R. Abainza
