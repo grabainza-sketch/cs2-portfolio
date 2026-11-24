@@ -20,3 +20,5 @@ Gabriel R. Abainza
 [Q2 Performance Activity](q2/Abainza_Gabriel_Performance.py)
 
 [Q2 Exercises](q2/Abainza_Gabriel_Exercises.py)
+
+[Q2 Exercises Second Set](q2/Abainza_Gabriel_Exercises2.py)
